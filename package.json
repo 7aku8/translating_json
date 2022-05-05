@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "translating_json",
+  "version": "1.0.0",
+  "description": "CLI script, integrated with Deepl to automatically translate JSON files",
+  "main": "index.js",
+  "scripts": {
+    "translate": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepl-node": "^1.2.2",
+    "dotenv": "^16.0.0"
+  }
+}
