@@ -1,0 +1,4 @@
+1. Copy files to be translated to `/input` directory
+2. Switch node version to 16.11.0
+3. Run `npm run translate -- <2 letter symbol of language of your choice>`
+4. When script finishes, your translations will be available in `/output` folder
